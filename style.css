@@ -1,0 +1,98 @@
+body {
+	background-color: black;
+	margin: 0px;
+}
+
+.top-bar {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background-color: black;
+	color: black;
+	padding: 5px;
+	text-decoration: none;
+	margin: 10px 0px;
+	letter-spacing: 5px;
+	word-spacing: 2px;
+	font-size: 20spx;
+	position: sticky;
+	top: 0;
+	font-family: "Open Sans", "Helvetica", "sans-serif";
+}
+
+#lolo{
+	height: 52px;
+	width: 52px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+.titre{
+	background-image: url("images/ravioli background.jpg");
+	padding: 250px;
+	color: white;
+	text-align: center;
+	font-size: 300%;
+	font-weight: lighter;
+	background-position: top;
+	text-shadow: 1px 1px 2px black, 0 0 10em black, 0 0 0.2em black;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#ravioliii{
+	color: white;
+	text-align: center;
+	background-image: url("images/ravioli close up.jpeg");
+	padding: 350px;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin: 2px 0px;
+	text-shadow: 1px 1px 2px black, 0 0 10em black, 0 0 0.2em black;
+	background-size: 100%;
+}
+
+#spinach-ravioli{
+	background-image: url("images/spinach ravioli.jpeg");
+	color: white;
+	text-align: center;
+	padding: 325px;
+	background-repeat: no-repeat;
+	background-position: top;
+	margin: 2px 0px;
+	text-shadow: 1px 1px 2px black, 0 0 10em black, 0 0 0.2em black;
+	background-size: 100%;
+}
+
+#order-now{
+	background-image: url("images/raviolix100.jpeg");
+	color: white;
+	text-align: center;
+	padding: 350px;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	margin: 2px 0px;
+	text-shadow: 1px 1px 2px black, 0 0 10em black, 0 0 0.2em black;
+	background-size: 100%;
+}
+
+#menu{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	background-color: white;
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	position: sticky;
+	bottom: 0;
+	font-family: "Open Sans", "Helvetica", "sans-serif";
+
+}
